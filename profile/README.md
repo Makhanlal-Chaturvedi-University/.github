@@ -1,3 +1,3 @@
-## Makhanlal Chaturvedi University 
+# Makhanlal Chaturvedi University 
 
-# 🧑‍💻 Study Materials For Computer Department
+## 🧑‍💻 Study Materials For Computer Department
