@@ -1,1 +1,1 @@
-Makhan
+## Makhanlal Chaturvedi University 
