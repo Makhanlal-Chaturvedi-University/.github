@@ -1,6 +1,15 @@
-# Makhanlal Chaturvedi University 
+<p align="center">
+  <a href="https://www.medusa-commerce.com">
+    <img alt="MCU" src="https://github.com/Makhanlal-Chaturvedi-University/.github/blob/d1d70129cfca0ba275c84e7beccdb2715fd37233/src/MCU_logo.svg.png" width="100" />
+  </a>
+</p>
 
-## 🧑‍💻 Study Materials For Computer Department
+<h1 align="center">
+Makhanlal Chaturvedi University 
+</h1>
+<p align="center">
+🧑‍💻 Study Materials For Computer Department
+</p>
 
 ## Platforms to Practice: 
 - [Codeforces](http://codeforces.com/contests)
