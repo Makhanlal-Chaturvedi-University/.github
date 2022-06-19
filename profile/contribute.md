@@ -1,6 +1,6 @@
 # How to contribute?
 
-**1.**  Fork [this](https://github.com/HackClubRAIT/HackClubRAIT-Website.github.io.git) repository.
+**1.**  Fork From [this Organization](https://github.com/Makhanlal-Chaturvedi-University) repository.
 
 **2.**  Clone your forked copy of the project.
 
