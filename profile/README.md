@@ -46,3 +46,10 @@ Makhanlal Chaturvedi University
 
 If You want to Share Your Own Project or Code Please Contact
 
+## Some Popular repository:
++ You can check it out
+
+<p align="center"> <a href="https://github.com/Makhanlal-Chaturvedi-University/Java.git/"><img width="48%" title="Java" src="https://github-readme-stats.vercel.app/api/pin/?username=theakashshukla&repo=Java&theme=dark"></a>
+<a href="https://github.com/Makhanlal-Chaturvedi-University/C-Plus-Plus.git/"><img width="48%" title="C Plus Plus" src="https://github-readme-stats.vercel.app/api/pin/?username=theakashshukla&repo=C-Plus-Plus&theme=dark"></a>
+</p>
+
