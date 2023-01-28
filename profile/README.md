@@ -15,8 +15,7 @@ Makhanlal Chaturvedi University
 - [Roadmap](https://roadmap.sh/) Recommended
 
 ## Platform to Learn:
-- [Exercism](https://exercism.org/) Recommended
-- [Codewars](https://www.codewars.com/)
+
 
 ## Interview Prep
 - [Pramp](https://www.pramp.com/#/)
@@ -24,6 +23,8 @@ Makhanlal Chaturvedi University
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 
 ## Platforms to Practice: 
+- [Exercism](https://exercism.org/) Recommended
+- [Codewars](https://www.codewars.com/)
 - [Codeforces](http://codeforces.com/contests)
 - [Codechef](https://www.codechef.com)
 - [Leetcode](https://leetcode.com)
