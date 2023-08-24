@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.medusa-commerce.com">
-    <img alt="MCU" src="https://github.com/Makhanlal-Chaturvedi-University/.github/blob/d1d70129cfca0ba275c84e7beccdb2715fd37233/src/MCU_logo.svg.png" width="100" />
+    <img alt="MCU" src="https://github.com/Makhanlal-Chaturvedi-University/.github/assets/49320497/76918e82-f257-4b02-a101-ea78d4367453" width="100" />
   </a>
 </p>
+
 
 <h1 align="center">
 Makhanlal Chaturvedi University 
